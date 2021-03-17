@@ -1,0 +1,68 @@
+My File Log: 2021-03-17 14:21:04,940 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 16884 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:21:04,942 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:21:05,529 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:21:05,542 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:21:05,542 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:21:05,601 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:21:05,602 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 621 ms 
+My File Log: 2021-03-17 14:21:05,710 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:21:05,830 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:21:05,840 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.22 seconds (JVM running for 1.695) 
+My File Log: 2021-03-17 14:21:31,132 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 20196 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:21:31,133 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:21:31,730 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:21:31,735 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:21:31,736 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:21:31,781 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:21:31,782 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 615 ms 
+My File Log: 2021-03-17 14:21:31,884 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:21:31,995 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:21:32,004 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.169 seconds (JVM running for 1.628) 
+My File Log: 2021-03-17 14:22:07,104 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 16900 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:22:07,107 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:22:07,679 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:22:07,689 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:22:07,689 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:22:07,731 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:22:07,731 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 582 ms 
+My File Log: 2021-03-17 14:22:07,833 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:22:07,944 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:22:07,953 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.125 seconds (JVM running for 1.547) 
+My File Log: 2021-03-17 14:22:31,522 ERROR MyController Some error occured 
+My File Log: 2021-03-17 14:22:49,927 ERROR MyController Some error occured 
+My File Log: 2021-03-17 14:23:32,231 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 21352 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:23:32,232 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:23:32,792 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:23:32,802 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:23:32,803 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:23:32,845 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:23:32,845 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 582 ms 
+My File Log: 2021-03-17 14:23:32,947 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:23:33,063 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:23:33,072 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.139 seconds (JVM running for 1.57) 
+My File Log: 2021-03-17 14:24:08,291 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 17984 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:24:08,293 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:24:08,944 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:24:08,956 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:24:08,956 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:24:09,005 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:24:09,005 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 668 ms 
+My File Log: 2021-03-17 14:24:09,125 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:24:09,243 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:24:09,251 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.298 seconds (JVM running for 1.767) 
+My File Log: 2021-03-17 14:24:15,746 INFO SpringbootLogLogbackConfigPropertiesApplication Starting SpringbootLogLogbackConfigPropertiesApplication using Java 15.0.2 on DESKTOP-E3Q8OF3 with PID 20820 (C:\Projects\springboot_log_logback_config_properties\target\classes started by igoreta in C:\Projects\springboot_log_logback_config_properties) 
+My File Log: 2021-03-17 14:24:15,748 INFO SpringbootLogLogbackConfigPropertiesApplication No active profile set, falling back to default profiles: default 
+My File Log: 2021-03-17 14:24:16,391 INFO TomcatWebServer Tomcat initialized with port(s): 8080 (http) 
+My File Log: 2021-03-17 14:24:16,397 INFO StandardService Starting service [Tomcat] 
+My File Log: 2021-03-17 14:24:16,397 INFO StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.43] 
+My File Log: 2021-03-17 14:24:16,442 INFO [/] Initializing Spring embedded WebApplicationContext 
+My File Log: 2021-03-17 14:24:16,442 INFO ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 661 ms 
+My File Log: 2021-03-17 14:24:16,543 INFO ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor' 
+My File Log: 2021-03-17 14:24:16,660 INFO TomcatWebServer Tomcat started on port(s): 8080 (http) with context path '' 
+My File Log: 2021-03-17 14:24:16,669 INFO SpringbootLogLogbackConfigPropertiesApplication Started SpringbootLogLogbackConfigPropertiesApplication in 1.206 seconds (JVM running for 1.682) 
+My File Log: 2021-03-17 14:24:19,931 INFO [/] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+My File Log: 2021-03-17 14:24:19,931 INFO DispatcherServlet Initializing Servlet 'dispatcherServlet' 
+My File Log: 2021-03-17 14:24:19,932 INFO DispatcherServlet Completed initialization in 1 ms 
+My File Log: 2021-03-17 14:24:19,943 ERROR MyController Some error occured 
+My File Log: 2021-03-17 14:24:19,943 WARN MyController Some warn  occured 
+My File Log: 2021-03-17 14:24:19,943 INFO MyController Some info  occured 
