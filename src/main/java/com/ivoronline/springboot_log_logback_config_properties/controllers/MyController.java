@@ -1,25 +1,31 @@
 package com.ivoronline.springboot_log_logback_config_properties.controllers;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Controller;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
 
-@Controller
+@Slf4j
+@RestController
 public class MyController {
 
-  Logger log = LoggerFactory.getLogger(MyController.class);
-
+  //========================================================
+  // HELLO
+  //========================================================
   @ResponseBody
   @RequestMapping("/Hello")
   public String hello() {
-    log.error("Some error occured");
-    log.warn ("Some warn  occured");
-    log.info ("Some info  occured");
-    log.debug("Some debug occured");
-    log.trace("Some trace occured");
+
+    //LOG
+    log.error("Hello from Controller");
+    log.warn ("Hello from Controller");
+    log.info ("Hello from Controller");
+    log.debug("Hello from Controller");
+    log.trace("Hello from Controller");
+
+    //RETURN
     return "Hello from Controller";
+
   }
 
 }
